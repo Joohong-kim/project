@@ -1,1 +1,1 @@
-Dcc c 
+Dcc c ansi
